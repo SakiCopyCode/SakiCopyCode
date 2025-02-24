@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SakiCopyCode
-- 👀 I’m interested in cooying otger code and pasting in my code so that I don't have to write it.
+- 👀 I’m interested in copying other code and pasting in my code so that I don't have to write it.
 - 🌱 I’m currently learning no thing since i am someone who copy other code if i need it
 - 💞️ I’m looking to collaborate on helping me to allow copy your code and making my coder life easier so that I don't have to brain storm myself thanks
 - 😄 Pronouns: he
